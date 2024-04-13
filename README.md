@@ -1,7 +1,7 @@
 # Task Tracker:
 Welcome to the Task Tracker Application repository! 🚀<br/>
-## Overview
-Hey there! Welcome to the Task Tracker Application repository. I'm excited to share my latest project developed during my internship at CodSoft - the Task Tracker Application! This application is designed to streamline your task management process effortlessly. Whether you're adding, updating, deleting tasks, or marking them complete, this application has got you covered!
+### Overview
+Hey there! Welcome to the Task Tracker Application repository. This application is designed to streamline your task management process effortlessly. Whether you're adding, updating, deleting tasks, or marking them complete, this application has got you covered!
 
 # Features:
 <ul>
@@ -20,4 +20,4 @@ Hey there! Welcome to the Task Tracker Application repository. I'm excited to sh
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 🔗 Dive In:
-Explore the Blog Platform from here: 
+Explore the Blog Platform from here: https://task-tracker-mahfoud.netlify.app
